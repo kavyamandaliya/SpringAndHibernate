@@ -6,383 +6,320 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-aop-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-aop-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-aop-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-aop-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-aop-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-aop-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-aspects-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-aspects-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-aspects-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-aspects-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-aspects-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-aspects-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-beans-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-beans-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-beans-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-beans-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-beans-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-beans-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-context-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-context-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-context-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-indexer-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-context-indexer-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-indexer-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-context-indexer-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-indexer-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-context-indexer-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-support-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-context-support-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-support-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-context-support-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-context-support-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-context-support-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-core-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-core-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-core-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-core-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-core-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-core-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-expression-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-expression-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-expression-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-expression-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-expression-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-expression-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-instrument-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-instrument-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-instrument-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-instrument-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-instrument-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-instrument-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jcl-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-jcl-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jcl-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-jcl-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jcl-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-jcl-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jdbc-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jdbc-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jdbc-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jms-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-jms-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jms-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-jms-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-jms-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-jms-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-messaging-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-messaging-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-messaging-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-messaging-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-messaging-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-messaging-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-orm-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-orm-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-orm-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-orm-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-orm-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-orm-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-oxm-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-oxm-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-oxm-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-oxm-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-oxm-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-oxm-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-test-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-test-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-test-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-test-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-test-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-test-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-tx-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-tx-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-tx-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-tx-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-tx-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-tx-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-web-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-web-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-web-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-web-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-web-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-web-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-webflux-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-webflux-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-webflux-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-webflux-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-webflux-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-webflux-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-webmvc-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-webmvc-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-webmvc-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-webmvc-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-webmvc-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-webmvc-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-websocket-5.2.3.RELEASE-javadoc.jar">
+	<classpathentry kind="lib" path="lib/spring-websocket-5.2.3.RELEASE-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-websocket-5.2.3.RELEASE-sources.jar">
+	<classpathentry kind="lib" path="lib/spring-websocket-5.2.3.RELEASE-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/spring-demo-annotations/lib/spring-websocket-5.2.3.RELEASE.jar">
+	<classpathentry kind="lib" path="lib/spring-websocket-5.2.3.RELEASE.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/spring-aop-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-aop-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-aop-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-aspects-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-aspects-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-aspects-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-beans-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-beans-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-beans-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-indexer-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-indexer-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-indexer-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-support-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-support-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-context-support-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-core-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-core-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-core-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-expression-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-expression-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-expression-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-instrument-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-instrument-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-instrument-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jcl-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jcl-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jcl-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jdbc-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jms-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jms-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-jms-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-messaging-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-messaging-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-messaging-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-orm-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-orm-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-orm-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-oxm-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-oxm-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-oxm-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-test-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-test-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-test-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-tx-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-tx-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-tx-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-web-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-web-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-web-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-webflux-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-webflux-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-webflux-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-webmvc-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-webmvc-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-webmvc-5.2.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lib/spring-websocket-5.2.3.RELEASE-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/spring-websocket-5.2.3.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/spring-websocket-5.2.3.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
