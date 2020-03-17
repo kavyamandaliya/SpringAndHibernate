@@ -12,7 +12,7 @@ public class TrackCoach implements Coach {
 		
 	}
 
-	@Override 
+	@Override
 	public String getDailyWorkout() {
 		// TODO Auto-generated method stub
 		return "Running 5k";
@@ -22,14 +22,6 @@ public class TrackCoach implements Coach {
 	public String getDailyFortune() {
 		return "Just do it " +fortuneService.getFortune();
 	}
+
 	
-	//add init method 
-	public void doMyStartUpStuff(){
-		System.out.println("Trackcoach: init method");
-	}
-	
-	//add destroy method 
-	public void doMyCleanUpStuffYoYo() {
-		System.out.println("Trackcoach: destroy method");
-	}
 }
