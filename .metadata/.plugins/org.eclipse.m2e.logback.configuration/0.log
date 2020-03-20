@@ -1645,3 +1645,23 @@
 2020-03-19 14:38:25,779 [Worker-14: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-03-19 14:38:25,783 [Worker-14: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-03-19 14:38:25,783 [Worker-14: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
+2020-03-20 09:37:04,898 [Worker-47: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:37:04,908 [Worker-47: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-20 09:37:04,911 [Worker-47: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-20 09:37:04,914 [Worker-47: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:37:04,915 [Worker-47: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
+2020-03-20 09:47:45,612 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:47:45,615 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-20 09:47:45,618 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-20 09:47:45,622 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:47:45,622 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
+2020-03-20 09:48:29,553 [Worker-55: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:48:29,554 [Worker-55: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-20 09:48:29,557 [Worker-55: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-20 09:48:29,562 [Worker-55: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:48:29,563 [Worker-55: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
+2020-03-20 09:48:48,819 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:48:48,819 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-20 09:48:48,821 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-20 09:48:48,824 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-20 09:48:48,825 [Worker-52: Launching SpringIn5StepsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
