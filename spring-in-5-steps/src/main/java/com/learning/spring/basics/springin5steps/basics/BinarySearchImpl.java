@@ -1,4 +1,4 @@
-package com.learning.spring.basics.springin5steps;
+package com.learning.spring.basics.springin5steps.basics;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component
-@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
+@Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)
 public class BinarySearchImpl {
 	//sorting an array 
 	//search the array 
