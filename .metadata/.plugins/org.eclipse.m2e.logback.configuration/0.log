@@ -1830,3 +1830,13 @@
 2020-03-23 23:24:04,750 [Worker-32: Launching SpringIn5StepsBasicApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-03-23 23:24:04,755 [Worker-32: Launching SpringIn5StepsBasicApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-03-23 23:24:04,755 [Worker-32: Launching SpringIn5StepsBasicApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
+2020-03-23 23:41:03,933 [Worker-58: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-23 23:41:03,935 [Worker-58: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-23 23:41:03,940 [Worker-58: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-23 23:41:03,951 [Worker-58: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-23 23:41:03,952 [Worker-58: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
+2020-03-23 23:43:28,863 [Worker-59: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-23 23:43:28,864 [Worker-59: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-23 23:43:28,865 [Worker-59: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-23 23:43:28,868 [Worker-59: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-23 23:43:28,869 [Worker-59: Launching SpringIn5StepsXMLContextApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kavya/Documents/JavaSpring/spring-in-5-steps/src/test/resources
