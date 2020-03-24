@@ -9,13 +9,15 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 import com.learning.spring.basics.springin5steps.basics.BinarySearchImpl;
+import com.learning.spring.basics.springin5steps.cdi.SomeCDIBusiness;
 import com.learning.spring.basics.springin5steps.scope.PersonDAO;
 
+@SuppressWarnings("unused")
 @Configuration
-@ComponentScan("com.learning.spring.basics.springin5steps")
-public class SpringIn5StepsScopeApplication {
+@ComponentScan("com.learning.spring.basics.cdi")
+public class SpringIn5StepsCDIApplication {
 	private static Logger LOGGER = 
-			LoggerFactory.getLogger(SpringIn5StepsScopeApplication.class);
+			LoggerFactory.getLogger(SpringIn5StepsCDIApplication.class);
 	//what are beans 
 	//what are dependencies for the bean 
 	//where to search for the beans 
@@ -23,12 +25,11 @@ public class SpringIn5StepsScopeApplication {
 	public static void main(String[] args) {
 		//application context maintains all the beans 
 		ApplicationContext applicationContext = 
-				new AnnotationConfigApplicationContext(SpringIn5StepsScopeApplication.class);		PersonDAO person1 = applicationContext.getBean(PersonDAO.class);
-		PersonDAO person2 = applicationContext.getBean(PersonDAO.class);
-		LOGGER.info("{}",person1);
-		LOGGER.info("{}",person1.getJdbcConnection());
-		LOGGER.info("{}",person2);
-		LOGGER.info("{}",person2.getJdbcConnection());
+				new AnnotationConfigApplicationContext(SpringIn5StepsCDIApplication.class);
+			SomeCDIBusiness business = applicationContext.getBean(SomeCDIBusiness.class);
+		
+		LOGGER.info("{}", business);
+		
 
 		
 	}

@@ -1,5 +1,10 @@
 package com.learning.spring.basics.springin5steps.basics;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
@@ -12,6 +17,7 @@ public class BinarySearchImpl {
 	//sorting an array 
 	//search the array 
 	//return the result index
+	private Logger logger = LoggerFactory.getLogger(this.getClass());
 	
 	@Autowired
 	@Qualifier("quick")
@@ -21,6 +27,16 @@ public class BinarySearchImpl {
 		int[] sortedNumbers = sortAlgorithm.sort(numbers);
 		System.out.println(sortAlgorithm);
 		return -1;
+	}
+	
+	@PostConstruct
+	public void postConstruct() {
+		logger.info("postContruct");
+	}
+	
+	@PreDestroy
+	public void preDestroy() {
+		logger.info("pre destroy ");
 	}
 	
 }
