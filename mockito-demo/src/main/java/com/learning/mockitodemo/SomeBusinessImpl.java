@@ -12,6 +12,7 @@ public class SomeBusinessImpl {
 		int greatest = Integer.MIN_VALUE;
 		for(int i: data) {
 			if(i > greatest) {
+				
 				greatest = i;
 			}
 		}
