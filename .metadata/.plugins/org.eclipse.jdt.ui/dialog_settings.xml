@@ -68,7 +68,7 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="232"/>
+		<item key="DIALOG_X_ORIGIN" value="198"/>
 		<item key="DIALOG_Y_ORIGIN" value="0"/>
 		<item key="DIALOG_WIDTH" value="560"/>
 		<item key="DIALOG_HEIGHT" value="639"/>
@@ -89,8 +89,8 @@
 		</section>
 	</section>
 	<section name="RefactoringWizard.preview">
-		<item key="width" value="600"/>
-		<item key="height" value="400"/>
+		<item key="width" value="590"/>
+		<item key="height" value="390"/>
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item key="updateSimilarElements" value="false"/>
@@ -99,5 +99,7 @@
 		<item key="updateQualifiedNames" value="true"/>
 		<item key="patterns" value="*"/>
 		<item key="renameSubpackages" value="true"/>
+	</section>
+	<section name="RenameInformationPopup">
 	</section>
 </section>
